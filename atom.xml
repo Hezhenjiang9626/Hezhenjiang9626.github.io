@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-18T13:05:30.738Z</updated>
+  <updated>2020-04-18T14:59:39.343Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这是第二篇博客</title>
+    <link href="http://yoursite.com/2020/04/18/%E8%BF%99%E6%98%AF%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2020/04/18/%E8%BF%99%E6%98%AF%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <published>2020-04-18T14:58:26.000Z</published>
+    <updated>2020-04-18T14:59:39.343Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="日记" scheme="http://yoursite.com/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+      <category term="天龙八部" scheme="http://yoursite.com/tags/%E5%A4%A9%E9%BE%99%E5%85%AB%E9%83%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>这是我的第一篇博客</title>
