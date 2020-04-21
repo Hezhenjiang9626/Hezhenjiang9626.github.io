@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>这是我的第一篇博客</title>
-    <url>/2020/04/18/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <title>第一篇博客</title>
+    <url>/2020/04/21/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[]]></content>
       <categories>
-        <category>随笔</category>
+        <category>学习</category>
       </categories>
       <tags>
-        <tag>瞎写</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>这是第二篇博客</title>
-    <url>/2020/04/18/%E8%BF%99%E6%98%AF%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-      <tags>
-        <tag>天龙八部</tag>
+        <tag>FPGA</tag>
       </tags>
   </entry>
 </search>
